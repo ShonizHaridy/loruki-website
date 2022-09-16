@@ -312,6 +312,13 @@ code, pre {
 
 
 /* Tablets and under */
+
+@media (max-width: 930px) {
+    .showcase-form{
+        width: 300px;
+    }
+}
+
 @media (max-width: 768px) {
     .showcase-text {
         display: block;
