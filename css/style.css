@@ -369,9 +369,9 @@ code, pre {
         justify-self: center;
         text-align: center;
     }
-
-    .showcase-from.card {
-        background-color: black !important;
+    
+    .showcase-form {
+        width: 300px;
     }
 }
 
